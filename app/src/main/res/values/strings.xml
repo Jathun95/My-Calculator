@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_button">+</string>
+    <string name="subtract_button">-</string>
+    <string name="multiply_button">*</string>
+    <string name="divide_button">/</string>
+    <string name="hint_enter_first_number">Enter first number</string>
+    <string name="hint_enter_second_number">Enter second number</string>
+    <string name="result_label">Result: </string>
+    <string name="app_name">Calculator App</string>
+    <string name="division_by_zero_error">Cannot divide by zero</string>
+    <string name="unknown_operation_error">Unknown operation</string>
+    <string name="invalid_input_error">Invalid input</string>
+    android:label="@string/app_name"  <!-- Redundant -->
+</resources>
